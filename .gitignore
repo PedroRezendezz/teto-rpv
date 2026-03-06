@@ -1,0 +1,11 @@
+.env
+iniciar_backend.bat
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.alembic_cache/

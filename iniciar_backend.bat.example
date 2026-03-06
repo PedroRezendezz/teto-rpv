@@ -1,0 +1,19 @@
+@echo off
+cd /d "%~dp0backend"
+set PYTHONIOENCODING=utf-8
+set DATABASE_URL=postgresql://USER:PASS@HOST/DBNAME?sslmode=require&channel_binding=require
+set ANTHROPIC_API_KEY=sk-ant-api03-...
+set TAVILY_API_KEY=tvly-...
+set APP_ENV=development
+set API_KEY=liberta-dev-2026
+
+echo.
+echo  ==========================================
+echo   TETO RPV - Backend (API)
+echo   Rodando em: http://localhost:8001
+echo   Docs:       http://localhost:8001/docs
+echo  ==========================================
+echo.
+
+C:\Users\pe1re\teto-rpv-venv\Scripts\uvicorn app.main:app --port 8001 --reload
+pause

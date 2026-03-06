@@ -1,0 +1,51 @@
+{
+  "jurisdiction": {
+    "level": "federal",
+    "name": "Federal",
+    "search_aliases": ["federal", "uniao", "uniao federal", "governo federal", "brasil"]
+  },
+  "ceilings": [
+    {
+      "valid_from": "2021-12-07",
+      "valid_until": null,
+      "ceiling_type": "salary_multiple",
+      "ceiling_value": 60.0,
+      "ceiling_description": "60 salários mínimos",
+      "legislation_name": "Emenda Constitucional nº 113/2021",
+      "legislation_url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc113.htm",
+      "legislation_description": "Altera o Art. 100 da CF/88. Para Estados e DF: 60 SM. Para municípios: 40 SM. Vigente a partir de 07/12/2021."
+    },
+    {
+      "valid_from": "2017-01-01",
+      "valid_until": "2021-12-06",
+      "ceiling_type": "salary_multiple",
+      "ceiling_value": 40.0,
+      "ceiling_description": "40 salários mínimos",
+      "legislation_name": "Emenda Constitucional nº 94/2016",
+      "legislation_url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc94.htm",
+      "legislation_description": "Altera o Art. 100 da CF/88. Teto de RPV fixado em 40 salários mínimos para Estados, DF e Municípios."
+    },
+    {
+      "valid_from": "2010-03-29",
+      "valid_until": "2016-12-31",
+      "ceiling_type": "salary_multiple",
+      "ceiling_value": 40.0,
+      "ceiling_description": "40 salários mínimos",
+      "legislation_name": "Emenda Constitucional nº 62/2009",
+      "legislation_url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc62.htm",
+      "legislation_description": "Institui regime especial de pagamento de precatórios. Teto de RPV: 40 salários mínimos."
+    },
+    {
+      "valid_from": "1988-10-05",
+      "valid_until": "2010-03-28",
+      "ceiling_type": "salary_multiple",
+      "ceiling_value": 40.0,
+      "ceiling_description": "40 salários mínimos (definido por lei própria de cada ente)",
+      "legislation_name": "Art. 100, §3º da Constituição Federal de 1988",
+      "legislation_url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "legislation_description": "Texto original da CF/88. Pagamentos de RPV definidos como obrigações de pequeno valor, com teto a ser definido em lei própria de cada ente federativo."
+    }
+  ],
+  "confidence": "verified",
+  "research_notes": "Dados verificados com base nos textos oficiais das emendas constitucionais disponíveis no Planalto."
+}

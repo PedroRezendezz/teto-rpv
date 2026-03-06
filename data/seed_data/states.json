@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Acre", "uf": "AC",
+    "search_aliases": ["acre", "ac"],
+    "note": "Pesquisar legislação específica do AC sobre RPV — se ausente, aplica teto federal EC 113/2021"
+  },
+  {
+    "name": "Alagoas", "uf": "AL",
+    "search_aliases": ["alagoas", "al"],
+    "note": "Pesquisar legislação específica do AL sobre RPV"
+  },
+  {
+    "name": "Amapá", "uf": "AP",
+    "search_aliases": ["amapa", "ap"],
+    "note": "Pesquisar legislação específica do AP sobre RPV"
+  },
+  {
+    "name": "Amazonas", "uf": "AM",
+    "search_aliases": ["amazonas", "am"],
+    "note": "Pesquisar legislação específica do AM sobre RPV"
+  },
+  {
+    "name": "Bahia", "uf": "BA",
+    "search_aliases": ["bahia", "ba"],
+    "note": "Pesquisar legislação específica da BA sobre RPV"
+  },
+  {
+    "name": "Ceará", "uf": "CE",
+    "search_aliases": ["ceara", "ce"],
+    "note": "Pesquisar legislação específica do CE sobre RPV"
+  },
+  {
+    "name": "Distrito Federal", "uf": "DF",
+    "search_aliases": ["distrito federal", "df", "brasilia", "brasília"],
+    "note": "DF aplica teto estadual EC 113/2021 = 60 SM. Verificar se há lei complementar própria."
+  },
+  {
+    "name": "Espírito Santo", "uf": "ES",
+    "search_aliases": ["espirito santo", "es"],
+    "note": "Pesquisar legislação específica do ES sobre RPV"
+  },
+  {
+    "name": "Goiás", "uf": "GO",
+    "search_aliases": ["goias", "go"],
+    "note": "Goiás tem histórico relevante de mudanças — Lei nº 18.002/2013 e alterações em 2020 e 2025"
+  },
+  {
+    "name": "Maranhão", "uf": "MA",
+    "search_aliases": ["maranhao", "ma"],
+    "note": "Pesquisar legislação específica do MA sobre RPV"
+  },
+  {
+    "name": "Mato Grosso", "uf": "MT",
+    "search_aliases": ["mato grosso", "mt"],
+    "note": "Pesquisar legislação específica do MT sobre RPV"
+  },
+  {
+    "name": "Mato Grosso do Sul", "uf": "MS",
+    "search_aliases": ["mato grosso do sul", "ms"],
+    "note": "Pesquisar legislação específica do MS sobre RPV"
+  },
+  {
+    "name": "Minas Gerais", "uf": "MG",
+    "search_aliases": ["minas gerais", "mg", "minas"],
+    "note": "Pesquisar legislação específica de MG sobre RPV"
+  },
+  {
+    "name": "Pará", "uf": "PA",
+    "search_aliases": ["para", "pa"],
+    "note": "Pesquisar legislação específica do PA sobre RPV"
+  },
+  {
+    "name": "Paraíba", "uf": "PB",
+    "search_aliases": ["paraiba", "pb"],
+    "note": "Pesquisar legislação específica da PB sobre RPV"
+  },
+  {
+    "name": "Paraná", "uf": "PR",
+    "search_aliases": ["parana", "pr"],
+    "note": "Pesquisar legislação específica do PR sobre RPV"
+  },
+  {
+    "name": "Pernambuco", "uf": "PE",
+    "search_aliases": ["pernambuco", "pe"],
+    "note": "Pesquisar legislação específica de PE sobre RPV"
+  },
+  {
+    "name": "Piauí", "uf": "PI",
+    "search_aliases": ["piaui", "pi"],
+    "note": "Pesquisar legislação específica do PI sobre RPV"
+  },
+  {
+    "name": "Rio de Janeiro", "uf": "RJ",
+    "search_aliases": ["rio de janeiro", "rj", "rio"],
+    "note": "Pesquisar legislação específica do RJ sobre RPV"
+  },
+  {
+    "name": "Rio Grande do Norte", "uf": "RN",
+    "search_aliases": ["rio grande do norte", "rn"],
+    "note": "Pesquisar legislação específica do RN sobre RPV"
+  },
+  {
+    "name": "Rio Grande do Sul", "uf": "RS",
+    "search_aliases": ["rio grande do sul", "rs", "gaucho", "gaúcho"],
+    "note": "Pesquisar legislação específica do RS sobre RPV"
+  },
+  {
+    "name": "Rondônia", "uf": "RO",
+    "search_aliases": ["rondonia", "ro"],
+    "note": "Pesquisar legislação específica de RO sobre RPV"
+  },
+  {
+    "name": "Roraima", "uf": "RR",
+    "search_aliases": ["roraima", "rr"],
+    "note": "Pesquisar legislação específica de RR sobre RPV"
+  },
+  {
+    "name": "Santa Catarina", "uf": "SC",
+    "search_aliases": ["santa catarina", "sc"],
+    "note": "Pesquisar legislação específica de SC sobre RPV"
+  },
+  {
+    "name": "São Paulo", "uf": "SP",
+    "search_aliases": ["sao paulo", "sp", "sampa"],
+    "note": "SP é o estado com maior volume de processos. Verificar Lei Complementar estadual sobre RPV."
+  },
+  {
+    "name": "Sergipe", "uf": "SE",
+    "search_aliases": ["sergipe", "se"],
+    "note": "Pesquisar legislação específica de SE sobre RPV"
+  },
+  {
+    "name": "Tocantins", "uf": "TO",
+    "search_aliases": ["tocantins", "to"],
+    "note": "Pesquisar legislação específica de TO sobre RPV"
+  }
+]
